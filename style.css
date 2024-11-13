@@ -209,3 +209,14 @@ h3 {
 .hidden {
   display: none;
 }
+
+.coupons-view {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.coupon {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
